@@ -1,3 +1,8 @@
+##Instructions for using the data
+
+Set the working directory to the location of the data set.
+Source each of the R-programs and call them as "plot1()" "plot2" etc
+
 ## Introduction
 
 This assignment uses data from
